@@ -1,0 +1,7 @@
+{
+  "name": "SonicAI Mastering Studio",
+  "description": "An automated audio post-production suite that uses AI and Web Audio DSP to clean noise, balance low-end (bass/kicks), and enhance vocals for professional-grade tracks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
